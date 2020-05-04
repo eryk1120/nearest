@@ -13,3 +13,5 @@ print ( closest)
 for i in range(x.shape[0]):
 	plt.plot(*zip(x[i],x[closest[i,1]]),color='blue')
 plt.show()
+
+# xDDDD
